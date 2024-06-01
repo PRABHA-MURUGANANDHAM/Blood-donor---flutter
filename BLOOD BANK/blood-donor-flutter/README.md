@@ -1,6 +1,6 @@
 # Blood Donor App
 
-Simple Blood Donation App made using Flutter as a CSR of Your Koseli Nepal. Your Koseli is Nepal's startup working to bring happiness in life of people. In case of this app, User are Logged in using Google Sign In. They can be a donor, search donors or request blood!
+Simple Blood Donation App made using Flutter .. In case of this app, User are Logged in using Google Sign In. They can be a donor, search donors or request blood!
 
 
 
